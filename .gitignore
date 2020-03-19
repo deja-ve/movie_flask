@@ -1,0 +1,9 @@
+# Default ignored files
+/workspace.xml
+*.mp4
+
+# Datasource local storage ignored files
+/dataSources/
+
+/venv_py3
+/__pycache__
